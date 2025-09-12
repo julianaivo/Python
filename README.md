@@ -1,4 +1,4 @@
-# 📌 Descrição
+# 📌 Descrição / Description
 
 🇧🇷 **Português (BR)**  
 Este repositório tem como objetivo centralizar e organizar os códigos que desenvolvi ao longo dos meus estudos da linguagem. Ele funciona como um espaço de prática, onde registro listas de exercícios, pequenos projetos e experimentos feitos para fixar conceitos fundamentais e explorar recursos mais avançados.  
